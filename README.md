@@ -1,16 +1,46 @@
-# crypto_wallet
+# Crypto Tracker
+<p align="center">
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=firebase)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-darkgreen?style=for-the-badge&logo=bitcoin)
+![Dogecoin](https://img.shields.io/badge/-Dogecoin-informational?style=for-the-badge&logo=dogecoin)
 
-## Getting Started
+</p>
 
-This project is a starting point for a Flutter application.
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
+### Beautiful Crypto Tracker powered by Firebase and Flutter🔥🔥
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<br/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Gif
+
+<p float="left">
+  <img src="readme/crypto_tracker.gif" width="350">
+</p>
+
+
+## ScreenShots
+
+<p float="left">
+  <img src="readme/welcome.png" width="250">
+  &nbsp;&nbsp;
+  <img src="readme/log_in.png" width="250">
+</p>
+
+<br/>
+
+<p float="left">
+  <img src="readme/register.png" width="250">
+  &nbsp;&nbsp;
+  <img src="readme/portfolio.png" width="250">
+</p>
+
+<br/>
+
+<p float="left">
+  <img src="readme/add.png" width="250">
+  &nbsp;&nbsp;
+  <img src="readme/prices.png" width="250">
+</p>

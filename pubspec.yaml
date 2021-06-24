@@ -1,0 +1,38 @@
+name: crypto_wallet
+description: My Crypto Wallet
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  awesome_dialog: ^2.1.0
+  bottom_navy_bar: ^6.0.0
+  cloud_firestore: ^2.2.2
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^1.4.1
+  firebase_core: ^1.3.0
+  flutter_svg: ^0.22.0
+  font_awesome_flutter: ^9.1.0
+  google_fonts: ^2.1.0
+  http: ^0.13.3
+  number_display: ^3.0.0
+  shared_preferences: ^2.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/
